@@ -703,7 +703,7 @@ GameObject:
   - component: {fileID: 1161205147}
   - component: {fileID: 1161205146}
   m_Layer: 0
-  m_Name: MenuManager
+  m_Name: Menu Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -899,7 +899,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1161205146}
         m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
-        m_MethodName: QuitGame
+        m_MethodName: NewGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
